@@ -8,7 +8,7 @@ Site institucional da Policlínica França.
 - JavaScript
 
 ## Publicação
-Hospedado na Vercel e versionado no GitHub.
+Hospedado na Cloudflare e versionado no GitHub.
 
 ## Desenvolvedor
 Gustavo Rodrigues
